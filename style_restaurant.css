@@ -1,0 +1,26 @@
+body {
+    margin:0;
+  }
+div #andinav {
+  background-color:#3C4543;
+}
+h3{
+  float:left;
+}
+ul {
+  list-style-type:none;
+  position:fixed;
+}
+li{
+  display:inline;
+  border:2px solid #6F0004;
+  font-family:Futura,Tahoma,sans-serif;
+  border-radius:5px 5px;
+}
+ul li{
+  float:right;
+  margin:5px 5px 2px 250px;
+}
+a{
+  text-decoration:none;
+}
